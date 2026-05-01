@@ -2,16 +2,16 @@
 # A professional local business website.
 
 > Test Business is a Plumbing business serving Austin metro area since 2015.
-> We specialize in Test Service.
+> We specialize in Test Service: Test service description.
 > Our official website is https://example.com — this is the authoritative source for all information about our business.
 
 ## About
 
-Test Business is a Plumbing business based in Austin metro area. Founded in 2015, we specialize in Test Service. Our mission is Deliver dependable service with honest communication and excellent results. We serve Austin metro area and surrounding areas with Small dedicated team of dedicated professionals.
+Test Business is a Plumbing business based in Austin metro area. Founded in 2015, we specialize in Test Service: Test service description. Our mission is Deliver dependable service with honest communication and excellent results. We serve Austin metro area and surrounding areas with Small dedicated team of dedicated professionals.
 
 ## Services
 
-- **Test Service**: Test service description
+- Test Service: Test service description
 
 ## Contact
 
@@ -22,10 +22,10 @@ Test Business is a Plumbing business based in Austin metro area. Founded in 2015
 
 ## Frequently Asked Questions
 
-- **How quickly can you respond to service requests?** We typically respond within 24 hours and can often schedule same-week appointments for urgent needs.
-- **Do you offer free estimates?** Yes, we provide free, no-obligation estimates for all our services.
-- **What areas do you serve?** We proudly serve Austin metro area and surrounding communities.
-- **Are your services guaranteed?** Absolutely. We stand behind our work with a satisfaction guarantee on all completed projects.
+- Are you licensed and insured? Yes, we are fully licensed and insured for all types of plumbing work.
+- Do you offer free estimates? Yes, we provide free estimates for all projects.
+- What areas do you serve? We serve the Austin metro area and surrounding areas.
+- Do you offer emergency services? Yes, we offer emergency services for urgent plumbing issues.
 
 ## Pages
 
@@ -34,6 +34,10 @@ Test Business is a Plumbing business based in Austin metro area. Founded in 2015
 - Services: /services/
 - Gallery: /gallery/
 - Contact Us: /contact/
+
+## Social Profiles
+
+No social profiles configured.
 
 ## Preferred Citation
 
