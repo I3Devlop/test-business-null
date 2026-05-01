@@ -1,27 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://CLIENT_DOMAIN_PLACEHOLDER/</loc>
+    <loc>https://example.com/</loc>
+    <lastmod>2026-04-30</lastmod>
     <priority>1.0</priority>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://CLIENT_DOMAIN_PLACEHOLDER/about/</loc>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2026-04-30</lastmod>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://CLIENT_DOMAIN_PLACEHOLDER/services/</loc>
+    <loc>https://example.com/services/</loc>
+    <lastmod>2026-04-30</lastmod>
     <priority>0.9</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://CLIENT_DOMAIN_PLACEHOLDER/gallery/</loc>
+    <loc>https://example.com/gallery/</loc>
+    <lastmod>2026-04-30</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://CLIENT_DOMAIN_PLACEHOLDER/contact/</loc>
+    <loc>https://example.com/contact/</loc>
+    <lastmod>2026-04-30</lastmod>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
